@@ -57,7 +57,7 @@ A sophisticated, AI-powered automated trading system for Kalshi prediction marke
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/enhanced-kalshi-bot.git
+   git clone https://github.com/LoQiseaking69/enhanced-kalshi-bot.git
    cd enhanced-kalshi-bot
    ```
 
@@ -703,7 +703,7 @@ For support and questions:
 - **Documentation**: Check this README and the `/docs` folder
 - **Issues**: Open an issue on GitHub
 - **Discussions**: Use GitHub Discussions for questions
-- **Email**: support@kalshi-bot.com
+- **Email**: REEL0112358.13@proton.me
 
 ## 🙏 Acknowledgments
 
